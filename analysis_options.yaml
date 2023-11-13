@@ -39,7 +39,7 @@ linter:
     - prefer_single_quotes
     - sized_box_for_whitespace
     - sort_child_properties_last
-    - sort_pub_dependencies
+    - sort_pub_dependencies: false
     - type_annotate_public_apis
     - unawaited_futures
     - use_named_constants
